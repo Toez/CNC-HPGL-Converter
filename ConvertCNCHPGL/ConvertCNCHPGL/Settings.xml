@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<project>
+  <extentions>
+    <inputExtentions>
+	  <Al>All Files (*.*)|*.*|</Al>
+	  <All>Files (*.cnc *.plt *.hpgl *.txt *.rot *.din)|*.cnc; *.plt; *.hpgl; *.txt; *.rot; *.din|</All>
+      <CNC>CNC files (*.cnc *.plt)|*.plt; *.cnc|</CNC>
+      <HPGL>HPGL files (*.hpgl *.plt)|*.hpgl; *.plt|</HPGL>
+      <TXT>Txt files (*.txt)|*.txt|</TXT>
+	  <ROT>ROT files (*.rot)|*.rot|</ROT>
+	  <DIN>DIN files (*.din)|*.din|</DIN>
+    </inputExtentions>
+    <outputExtentions>
+      <M>M files (*.M)|*.M|</M>
+      <E>E files (*.E)|*.E|</E>
+      <TXT>Txt files (*.txt)|*.txt|</TXT>
+    </outputExtentions>
+  </extentions>
+  <CNCCmds>
+    <Relative>G91</Relative>
+    <Arc>G02, G2, G03, G3</Arc>
+    <Line>G00, G0, G01, G1</Line>
+    <On>M14, M51, M52, D1</On>
+    <Tool>M176T, M20, H, T, P</Tool>
+    <CallSub>Q, P</CallSub>
+	<StartSub>O, DFS,P, $PROGIN, P</StartSub>
+	<EndSub>M30, M2</EndSub>
+    <Absolute>G90</Absolute>
+    <Off>M15, M54, D2</Off>
+  </CNCCmds>
+	<HPGLCmds>
+		<Relative></Relative>
+		<Arc>AA, AR</Arc>
+		<Line>PA, PR</Line>
+		<On>PD</On>
+		<Tool>SP</Tool>
+		<CallSub></CallSub>
+		<Absolute></Absolute>
+		<Off>PU</Off>
+		<Polygon>PM</Polygon>
+		<Circle>CI</Circle>
+	</HPGLCmds>
+</project>

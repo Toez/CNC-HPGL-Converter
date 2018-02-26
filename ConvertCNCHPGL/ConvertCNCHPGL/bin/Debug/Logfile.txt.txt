@@ -1,0 +1,616 @@
+24-1-2017 15:15:01
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 273
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 273
+Message: De index ligt buiten de matrixgrenzen.
+Stack Trace:    bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 315
+Message: De index ligt buiten de matrixgrenzen.
+Stack Trace:    bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 315
+Message: De index ligt buiten de matrixgrenzen.
+Stack Trace:    bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 315
+Message: De index ligt buiten de matrixgrenzen.
+Stack Trace:    bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 315
+Message: De objectverwijzing is niet op een exemplaar van een object ingesteld.
+Stack Trace:    bij ConvertCNCHPGL.SubProgram.ContainsCoordinates() in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\SubProgram.cs:regel 257
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
+Message: De indeling van de invoertekenreeks is onjuist.
+Stack Trace:    bij System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   bij System.Double.Parse(String s)
+   bij System.Array.ConvertAll[TInput,TOutput](TInput[] array, Converter`2 converter)
+   bij ConvertCNCHPGL.Converter.HandleCommand(CommandRef command) in c:\Users\Tommy\Desktop\Stage\2017-01-23 ConvertCNCHPGL - Backup\ConvertCNCHPGL\Converter.cs:regel 314
